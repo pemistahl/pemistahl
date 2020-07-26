@@ -1,4 +1,4 @@
-![Peter M. Stahl - Computational Linguist, Software Engineer](banner.jpg)
+![Peter M. Stahl - Computational Linguist, Software Engineer](https://raw.githubusercontent.com/pemistahl/pemistahl/master/banner.jpg)
 
 <br>
 
