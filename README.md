@@ -14,8 +14,6 @@ I hold a Master's degree in computational linguistics from
 in Saarbrücken, Germany. After my graduation in 2013, I decided against a research career
 because I like building things that help people now and not in the unforeseeable future.
 
-Currently, I work for [REWE digital](https://www.rewe-digital.com/en/index.html), 
-a subsidiary of the REWE group, one of Germany's largest food business companies.
 In my free time, I like working on open source projects in the fields of
 computational linguistics and string processing in general.
 
