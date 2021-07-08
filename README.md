@@ -14,8 +14,9 @@ I hold a Master's degree in computational linguistics from
 in Saarbrücken, Germany. After my graduation in 2013, I decided against a research career
 because I like building things that help people now and not in the unforeseeable future.
 
-In my free time, I like working on open source projects in the fields of
-computational linguistics and string processing in general.
+Currently, I work for [Riege](https://www.riege.com/), a leading provider of cloud-based 
+software for the logistics industry. In my free time, I like working on open source projects 
+in the fields of computational linguistics and string processing in general.
 
 I have a special interest in modern programming languages and green computing.
 I believe that the software industry should make more significant contributions
