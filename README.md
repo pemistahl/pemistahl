@@ -1,8 +1,4 @@
-![Peter M. Stahl - Computational Linguist, Software Engineer](https://raw.githubusercontent.com/pemistahl/pemistahl/master/banner.jpg)
-
-<br>
-
-### Hello, thank you for visiting my profile. 🖖🏻🤓
+## Hello, thank you for visiting my profile. 🖖🏻🤓
 
 My name is Peter. There are actually more people than I thought who have the same first and family name, 
 so I bother you with my middle name Michael as well. 
