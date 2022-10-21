@@ -29,3 +29,8 @@ eco-friendly software, I strongly recommend you to read the dissertation
 [*Energyware Engineering: Techniques and Tools for Green Software Development*](https://www.semanticscholar.org/paper/Energyware-engineering%3A-techniques-and-tools-for-Pereira/c0c935db208abb92133c422bf710b53ded2faf84)
 published in 2018 by [Rui Pereira](https://haslab.uminho.pt/ruipereira/) at the [University of Minho](https://www.uminho.pt/EN)
 in Portugal.
+
+<br>
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=pemistahl&count_private=true&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pemistahl&layout=compact&hide_title=true&hide_border=true&langs_count=10" /> |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
